@@ -4,7 +4,7 @@ Add KVM storage pool
 If you run out of disk space you may add a new disk. 
 
 .. note :: 
-    KVM mush then be informed about this new space available by creating a new storage pool.
+    KVM must then be informed about this new space available by creating a new storage pool.
 
 Add the drive to the system
 ---------------------------
